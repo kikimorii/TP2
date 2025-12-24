@@ -1,1 +1,2 @@
-1 Interrogative sentence? 2 Exclamation sentence! 3 Interrogative sentence? 4 Exclamation sentence! 5 Interrogative sentence? 6 Exclamation sentence!
+1 Interrogative sentence?
+2 Exclamation sentence! 3 Interrogative sentence? 4 Exclamation sentence! 5 Interrogative sentence? 6 Exclamation sentence!
